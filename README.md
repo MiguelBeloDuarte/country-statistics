@@ -1,4 +1,4 @@
-# Country Statistics Engine
+# Geographic Data Analyzer
 
 A Java application for parsing, validating, and querying large CSV datasets containing demographic data of countries and cities. Built as a university project for the **Algoritmia e Estruturas de Dados** course at Universidade Lusófona (2025/2026).
 
